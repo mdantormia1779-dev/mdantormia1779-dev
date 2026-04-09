@@ -3,18 +3,18 @@
 </p>
 
 # 👋 Hello! I'm Md Antor Mia
-### 👨‍💻 Front-End Developer | Clean Code & UI/UX Focused
+### 👨‍💻 Front-End Developer | Clean Code & UI/UX Enthusiast
 
 I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh.  
-I build **responsive, interactive, and user-centric web applications** using modern technologies.  
-My aim is to combine **beautiful design + flawless functionality**.
+I specialize in building **responsive, interactive, and user-centric web applications** with modern technologies.  
+My mission is to **bridge design and functionality**, delivering pixel-perfect, maintainable code.
 
 ---
 
-## 🚀 What I'm Doing Right Now
-- 🔭 Developing a **Tourism Booking Website** with interactive UI  
-- 🌱 Learning **Next.js & MongoDB** for Full-Stack growth  
-- ⚡ Focusing on **React performance optimization and accessibility**  
+## 🚀 Current Focus
+- 🔭 Developing a **Tourism Booking Website** with dynamic UI components  
+- 🌱 Learning **Next.js & MongoDB** for Full-Stack development  
+- ⚡ Enhancing **React performance, accessibility & responsive design**  
 - 💬 Ask me about: **React, Tailwind CSS, DaisyUI, API Integration**
 
 ---
@@ -44,22 +44,16 @@ My aim is to combine **beautiful design + flawless functionality**.
 ## 💻 Projects Showcase
 
 <p align="center">
-  <a href="https://countryapiprojectfreeapi.netlify.app/" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; transition:0.3s; border-radius:10px; overflow:hidden; box-shadow:0 10px 20px rgba(0,0,0,0.2);">
-      <img src="https://user-images.githubusercontent.com/111111111/your-country-project-gif.gif" width="320" alt="Countries API Project" style="transition:0.3s;"/>
-      <div style="background:linear-gradient(180deg, rgba(0,0,0,0.6), transparent); color:white; text-align:center; font-weight:bold; padding:10px;">Countries API Project</div>
-      <p align="center"><b>Live:</b> countryapiprojectfreeapi.netlify.app | <b>Repo:</b> <a href="https://github.com/mdantormia1779-dev/countries" target="_blank">GitHub</a></p>
-    </div>
+  <a href="https://countryapiprojectfreeapi.netlify.app/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/111111111/your-country-project-gif.gif" width="320" style="border-radius:10px; box-shadow:0 8px 15px rgba(0,0,0,0.2);" alt="Countries API Project" />
+    <p><b>Countries API Project</b> | <b>Live:</b> countryapiprojectfreeapi.netlify.app | <b>Repo:</b> <a href="https://github.com/mdantormia1779-dev/countries">GitHub</a></p>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github-issue-project.netlify.app/" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; transition:0.3s; border-radius:10px; overflow:hidden; box-shadow:0 10px 20px rgba(0,0,0,0.2);">
-      <img src="https://user-images.githubusercontent.com/111111111/your-issue-tracker-gif.gif" width="320" alt="GitHub Issue Tracker" style="transition:0.3s;"/>
-      <div style="background:linear-gradient(180deg, rgba(0,0,0,0.6), transparent); color:white; text-align:center; font-weight:bold; padding:10px;">GitHub Issue Tracker</div>
-      <p align="center"><b>Live:</b> github-issue-project.netlify.app | <b>Repo:</b> <a href="https://github.com/mdantormia1779-dev/github-issue-tracker" target="_blank">GitHub</a></p>
-    </div>
+  <a href="https://github-issue-project.netlify.app/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/111111111/your-issue-tracker-gif.gif" width="320" style="border-radius:10px; box-shadow:0 8px 15px rgba(0,0,0,0.2);" alt="GitHub Issue Tracker" />
+    <p><b>GitHub Issue Tracker</b> | <b>Live:</b> github-issue-project.netlify.app | <b>Repo:</b> <a href="https://github.com/mdantormia1779-dev/github-issue-tracker">GitHub</a></p>
   </a>
 </p>
 
@@ -78,7 +72,7 @@ My aim is to combine **beautiful design + flawless functionality**.
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/md-antor-mia-antor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -87,6 +81,24 @@ My aim is to combine **beautiful design + flawless functionality**.
   <a href="https://snapchat.com/add/yourusername" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
 </p>
 
+---
+
+## 📞 Contact
+
+- ✉ Email: mdantormia1779@gmail.com  
+- 📱 Phone: +8801318964063  
+- 🌐 Portfolio: [https://mdantormia1779-dev.github.io/mdantormia/](https://mdantormia1779-dev.github.io/mdantormia/)  
+
+---
+
+## 🎯 Career Objective
+
+To secure a **Front-End Developer** position in a growth-oriented company to apply my technical skills, improve expertise, and contribute to innovative web solutions.
+
+---
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House  
+
 <p align="center">
-  <b>Thanks for visiting! ⭐ my projects if you like them!</b>
+  **Thanks for visiting! ⭐ my projects if you like them!**
 </p>
