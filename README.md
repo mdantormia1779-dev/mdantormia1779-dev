@@ -1,6 +1,3 @@
-Here is your fully professional, **English-only** GitHub README with sleek animations, typing effects, and modern layouts.
-
-```markdown
 <div align="center">
   <!-- Typing Animation Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Md+Antor+Mia;Front-End+Developer;Clean+Code+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
@@ -92,4 +89,3 @@ I am a detail-oriented **Front-End Developer** from Bangladesh, passionate about
   <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30" />
 </div>
-```
