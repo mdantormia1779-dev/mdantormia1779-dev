@@ -1,3 +1,6 @@
+
+<img width="2660" height="1440" alt="Gray and White Modern Programmer LinkedIn Banner (2660 x 1440 px)" src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" />
+
 <div align="center">
   <!-- Typing Name Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Md+Antor+Mia;Front-End+Developer;React+Enthusiast;Next.js+Learner" alt="Typing Name" />
