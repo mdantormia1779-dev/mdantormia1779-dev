@@ -3,23 +3,23 @@
 </p>
 
 ## 👋 Hello World! I'm Md Antor Mia
-### 👨‍💻 Front-End Developer | Passionate about Clean Code & UI/UX
+### 👨‍💻 Front-End Developer | Clean Code & UI/UX Enthusiast
 
-I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh. I specialize in building responsive, user-centric web applications using modern technologies. My goal is to bridge the gap between design and functionality.
+I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh. I build responsive, user-friendly web apps using modern tech. My goal is to combine **design + functionality** seamlessly.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🔭 Developing a **Tourism Website** to simplify travel bookings.  
-- 🌱 Exploring **Next.js** and **MongoDB** to level up my Full-Stack skills.  
-- ⚡ Focusing on **Performance Optimization** in React apps.  
-- 💬 Ask me about: **React, Tailwind CSS, API Integration, and UI/UX best practices**.
+- 🔭 Developing a **Tourism Website** for easy travel bookings  
+- 🌱 Exploring **Next.js & MongoDB** for Full-Stack skills  
+- ⚡ Focusing on **Performance Optimization** in React apps  
+- 💬 Ask me about: **React, Tailwind CSS, API Integration, UI/UX**
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Skills
 
-**Frontend Development:**  
+**Frontend:**  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,12 +29,32 @@ I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh. I spe
   <img src="https://img.shields.io/badge/DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
-**Tools & Technologies:**  
+**Tools:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 💻 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/mdantormia1779-dev/countries" target="_blank">
+    <img src="https://user-images.githubusercontent.com/111111111/your-country-project-gif.gif" alt="Countries API Project" width="300" style="margin:10px;border-radius:10px;transition:0.3s;filter:grayscale(0%);" onmouseover="this.style.transform='scale(1.05)';this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)';this.style.filter='grayscale(20%)';"/>
+    <br>
+    <b>Countries API Project</b> - <i>Live: countryapiprojectfreeapi.netlify.app</i>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdantormia1779-dev/github-issue-tracker" target="_blank">
+    <img src="https://user-images.githubusercontent.com/111111111/your-issue-tracker-gif.gif" alt="GitHub Issue Tracker" width="300" style="margin:10px;border-radius:10px;transition:0.3s;filter:grayscale(0%);" onmouseover="this.style.transform='scale(1.05)';this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)';this.style.filter='grayscale(20%)';"/>
+    <br>
+    <b>GitHub Issue Tracker</b> - <i>Live: github-issue-project.netlify.app</i>
+  </a>
 </p>
 
 ---
@@ -52,7 +72,7 @@ I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh. I spe
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/md-antor-mia-antor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -61,8 +81,6 @@ I am a detail-oriented **Front-End Developer** from Gaibandha, Bangladesh. I spe
   <a href="https://snapchat.com/add/yourusername" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
 </p>
 
----
-
 <p align="center">
-  <b>Thank you for visiting! Don’t forget to ⭐️ my projects!</b>
+  <b>Thanks for visiting! Don't forget to ⭐ my projects.</b>
 </p>
