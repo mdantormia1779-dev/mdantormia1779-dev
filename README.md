@@ -83,7 +83,7 @@ Internship | Junior Developer | Freelance
 Let's build something amazing together!
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=footer&text=Keep%20Building%20&fontSize=30&fontColor=ffffff" />
 </p>
 
 </div>
