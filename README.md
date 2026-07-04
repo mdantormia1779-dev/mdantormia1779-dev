@@ -54,14 +54,6 @@ Real-time dashboard
 Order tracking & status management
 Admin control panel
 
-GitHub Analytics
-<p align="center">
-  <a href="https://md-antor-mia.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" width="90%" />
-  </a>
-</p>
-
-
 Activity Graph (Advanced)
 
 <p align="center">
