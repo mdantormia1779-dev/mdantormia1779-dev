@@ -24,10 +24,10 @@ Connect With Me
 <a href="https://github.com/mdantormia1779-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
 </p>
 
-* 💼 Working as a **MERN Stack Intern (Real-world experience)**
-* ⚙️ Strong in **MongoDB, Express.js, React, Node.js**
-* 🔐 Experience with **JWT Auth, Role-based system, API integration**
-* 🎯 Goal: Become a **Top 1% Full Stack Engineer**
+Working as a **MERN Stack Intern (Real-world experience)**
+Strong in **MongoDB, Express.js, React, Node.js**
+Experience with **JWT Auth, Role-based system, API integration**
+Goal: Become a **Top 1% Full Stack Engineer**
 
 Tech Stack
 
