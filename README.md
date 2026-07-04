@@ -1,59 +1,125 @@
 <div align="center">
 
-<!-- Banner -->
 <img width="100%" src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" />
 
-# Hello, I'm Md Antor Mia! 👋
+# 👋 Hi, I'm Md Antor Mia
+
+### 🚀 Full Stack MERN Developer | Next.js Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Digital+Experiences;React+%26+Next.js+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Intern+%7C+Real+World+Projects;React+%26+Next.js+Expert;Building+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
+💼 MERN Stack Intern | 🌍 Bangladesh  
+⚡ Building scalable, high-performance web applications
 </p>
 
 ---
 
-### 🌐 Social Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-antor-mia-antor/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdantormia1779@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdantormia1779-dev)
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/md-antor-mia-antor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:mdantormia1779@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/mdantormia1779-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🧠 About Me
+
+* 💼 Working as a **MERN Stack Intern (Real-world experience)**
+* 🔭 Building **Tourism Booking System (Full Stack)**
+* ⚙️ Strong in **MongoDB, Express.js, React, Node.js**
+* 🔐 Experience with **JWT Auth, Role-based system, API integration**
+* 🎯 Goal: Become a **Top 1% Full Stack Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-<table align="center">
-  <tr>
-    <td align="center"><b>Startup Forge</b><br><sub>Full-stack SaaS Platform</sub></td>
-    <td align="center"><b>IdeaVault</b><br><sub>Idea Sharing Network</sub></td>
-    <td align="center"><b>Order Management</b><br><sub>Real-time Dashboard</sub></td>
-  </tr>
-</table>
+
+### 🔥 Startup Forge (SaaS Platform)
+
+* Role-based dashboard (Admin / Founder / User)
+* Stripe payment integration
+* Full-stack MERN + Next.js
 
 ---
 
-## 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdantor-mia-antor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantor-mia-antor&theme=tokyonight&hide_border=true" width="45%" />
-</div>
+### 💡 IdeaVault
+
+* Idea sharing platform with authentication
+* CRUD + Likes + Comments
+* JWT + Google OAuth
 
 ---
 
-### 🎓 Education & Growth
-- **Diploma in CST** | Habiganj Polytechnic Institute
-- Always learning & exploring new technologies like **Next.js 15+** and **TypeScript**.
+### 📦 Order Management System
+
+* Real-time dashboard
+* Order tracking & status management
+* Admin control panel
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdantormia1779-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantormia1779-dev&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+## 📈 Activity Graph (Advanced)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdantormia1779-dev&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Premium GitHub Trophies (Filtered + Clean)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdantormia1779-dev&theme=algolia&no-frame=true&margin-w=10&row=1&column=5&title=Stars,Followers,Commits,Repositories,PullRequest" />
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 Diploma in Computer Science & Technology
+🏫 Habiganj Polytechnic Institute
+
+---
+
+## 🧠 Current Focus
+
+* ⚡ Next.js (App Router)
+* 🔥 TypeScript
+* 🧩 System Design Basics
+
+---
+
+## 🤝 Open To Work
+
+💼 Internship | Junior Developer | Freelance
+📩 Let's build something amazing together!
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=footer&text=Keep%20Coding%20%26%20Stay%20Awesome!&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=footer&text=Keep%20Building%20🚀&fontSize=30&fontColor=ffffff" />
 </p>
 
 </div>
