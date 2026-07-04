@@ -89,7 +89,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdantormia1779-dev&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdantormia1779-dev&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
