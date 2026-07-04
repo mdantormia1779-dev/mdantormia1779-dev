@@ -28,7 +28,6 @@
 ## 🧠 About Me
 
 * 💼 Currently working as a **MERN Stack Intern**
-* 🔭 Building a **Tourism Booking Platform** with full-stack architecture
 * 🌱 Strong knowledge of **MongoDB, Express.js, React, Node.js**
 * ⚡ Experienced in **REST API, Authentication (JWT/OAuth), Role-based systems**
 * 🎯 Goal: Become a **Professional Full Stack Engineer**
@@ -62,7 +61,7 @@
 
 ---
 
-### 🔹 Tourism Booking Website
+### 🔹 Order Management System
 
 * Real-world project (ongoing)
 * Booking system with dynamic UI & API integration
