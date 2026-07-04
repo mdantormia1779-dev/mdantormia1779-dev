@@ -56,8 +56,9 @@ Admin control panel
 
 GitHub Analytics
 <p align="center">
-  <img src="https://md-antor-mia.vercel.app-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantormia1779-dev&theme=tokyonight&hide_border=true" width="47%" />
+  <a href="https://md-antor-mia.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" width="90%" />
+  </a>
 </p>
 
 
