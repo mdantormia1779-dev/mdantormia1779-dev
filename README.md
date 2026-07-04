@@ -1,68 +1,116 @@
-
-<img width="2660" height="1440" alt="Gray and White Modern Programmer LinkedIn Banner (2660 x 1440 px)" src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" />
+<img width="2660" height="1440" alt="Banner" src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" />
 
 <br>
-<div align="center">
-  <!-- Typing Name Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Md+Antor+Mia;Front-End+Developer;React+Enthusiast;Next.js+Learner" alt="Typing Name" />
 
-  <p align="center">
-    <b>Building responsive and user-centric web applications from Bangladesh</b>
-  </p>
+<h1 align="center">Hi 👋, I'm Md Antor Mia</h1>
+<h3 align="center">Front-End Developer | React & Next.js Enthusiast</h3>
 
-  <!-- Glowing Profile Border -->
-  <img src="https://github.com/mdantormia1779-dev.png" alt="Md Antor Mia" width="160" height="160" style="border-radius: 50%; border: 4px solid #00d2ff;" />
+<p align="center">
+  Building scalable, user-friendly, and high-performance web applications 🚀
+</p>
 
-  <br><br>
+<p align="center">
+  📍 Rangpur, Bangladesh |
+  📧 mdantormia1779@gmail.com |
+  📞 +8801318964063
+</p>
 
-  <div>
-    <a href="https://linkedin.com/in/md-antor-mia-antor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:mdantormia1779@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://facebook.com/share/18GNWNwV7d/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  </div>
-</div>
-
----
-
-## 🚀 About Me
-- 🔭 **Working On:** A high-performance **Tourism Booking Website**.
-- 🌱 **Learning:** Currently mastering **Next.js & MongoDB** for full-stack excellence.
-- ⚡ **Expertise:** React, Tailwind CSS, JavaScript (ES6), and API Integration.
-- 🎯 **Goal:** To build clean, maintainable, and high-performance code.
-
----
-
-## 🛠️ Technical Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,figma" />
+<p align="center">
+  <a href="https://linkedin.com/in/md-antor-mia-antor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mdantormia1779@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mdantormia1779-dev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📂 Projects
-*   **English Janala:** Vocabulary learning app with pronunciation and search.
-*   **Payoo Mobile Bank:** Payment UI with dynamic balance and authentication.
-*   **Job Tracker:** Interactive status board for recruitment management.
-*   **Countries API:** Data-driven explorer using REST APIs.
+## 🚀 About Me
+
+* 🔭 Currently working on a **Tourism Booking Website**
+* 🌱 Learning **Next.js, MongoDB, and Full Stack Development**
+* ⚡ Strong in **React, Tailwind CSS, JavaScript (ES6), API Integration**
+* 🎯 Goal: Become a **Full Stack Developer** and build impactful real-world projects
 
 ---
 
-## 📊 GitHub Performance
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantormia1779-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 💻 Frontend
+
+HTML, CSS, JavaScript (ES6), React.js, Next.js, Tailwind CSS, DaisyUI
+
+### ⚙️ Backend (Basic)
+
+Node.js, Express.js
+
+### 🗄️ Database & Authentication
+
+MongoDB, Better Auth, Google OAuth
+
+### 🧰 Tools
+
+Git, GitHub, VS Code, Responsive Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Startup Forge Platform
+
+**Tech:** Next.js, React.js, Tailwind CSS, Express.js, MongoDB, BetterAuth, Stripe
+
+* Role-based dashboards (Admin, Founder, Collaborator)
+* Startup & opportunity management system
+* Premium model: 3 free opportunities, then Stripe payment
+
+---
+
+### 🔹 IdeaVault – Startup Idea Sharing Platform
+
+**Tech:** Next.js, React.js, Tailwind CSS, Express.js, MongoDB, BetterAuth
+
+* Secure authentication system (JWT + Google Login)
+* Full CRUD for startup ideas
+* Like & comment system for engagement
+
+---
+
+### 🔹 Other Projects
+
+* English Janala – Vocabulary learning app
+* Payoo Mobile Bank – Payment UI system
+* Job Tracker – Recruitment tracking dashboard
+* Countries API – REST API data explorer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantormia1779-dev&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 🎓 Education
-- **Diploma in Computer Science & Technology**  
-  *Habiganj Polytechnic Institute*
+
+Diploma in Computer Science & Technology
+Habiganj Polytechnic Institute
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=mdantormia1779-dev&color=brightgreen&style=flat-square&label=Profile+Views" />
-</div>
+## 🌐 Languages
+
+* Bengali (Native)
+* English (Conversational)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
