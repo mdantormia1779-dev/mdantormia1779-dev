@@ -1,23 +1,23 @@
 <div align="center">
 
   <!-- TOP HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07192d,50:00f7ff,100:7f00ff&height=220&section=header&text=Md%20Antor%20Mia&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07192d,35:00f7ff,70:6366f1,100:a855f7&height=240&section=header&text=Md%20Antor%20Mia&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%7C%20MERN%20Stack%20Software%20Engineer&descSize=20&descAlignY=60" />
 
-  <!-- TYPING SVG ANIMATION -->
+  <!-- DYNAMIC TYPING SVG ANIMATION -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Full-Stack+Developer;Frontend+Intern+%40+JEVXO+Software;React+%26+Next.js+15+Architect;Building+Scalable+Full-Stack+SaaS+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+MERN+Stack+Developer;Frontend+Intern+%40+JEVXO+Software;React+%26+Next.js+15+Architect;Building+Scalable+Enterprise+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- QUICK BIO BADGES -->
+  <!-- QUICK STATUS PILLS -->
   <p align="center">
-    ⚡ <b>Frontend Intern @ JEVXO Software</b> &nbsp;|&nbsp; 
-    📍 <b>Rangpur / Gaibandha, Bangladesh</b> &nbsp;|&nbsp; 
-    🎯 <b>Aiming to be a Top 1% Full Stack Engineer</b>
+    🔹 <b>Frontend Intern @ JEVXO Software</b> &nbsp;•&nbsp; 
+    📍 <b>Rangpur, Bangladesh</b> &nbsp;•&nbsp; 
+    🎓 <b>Habiganj Polytechnic Institute</b>
   </p>
 
-  <!-- SOCIAL BADGES -->
+  <!-- SOCIAL CONNECT BADGES -->
   <p align="center">
     <a href="https://linkedin.com/in/mdantormia">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -37,14 +37,26 @@
 
 ---
 
-About Me
+### 💻 Developer Profile Matrix
 
 ```typescript
-const developer = {
+interface Developer {
+  name: string;
+  role: string;
+  education: string;
+  experience: string;
+  coreStack: string[];
+  goals: string;
+}
+
+const mdAntorMia: Developer = {
   name: "Md Antor Mia",
   role: "MERN Stack & Full-Stack Developer",
-  education: "Diploma in Computer Science & Technology @ Habiganj Polytechnic Institute",
+  education: "Diploma in CST @ Habiganj Polytechnic Institute",
   experience: "Frontend Developer Intern @ JEVXO Software",
-  currentFocus: ["Next.js 15 App Router", "TypeScript", "Prisma ORM", "System Design"],
-  passionateAbout: "Building high-performance UI/UX & scalable backend systems"
+  coreStack: [
+    "React.js", "Next.js 15", "TypeScript", "Tailwind CSS",
+    "Node.js", "Express.js", "Prisma ORM", "PostgreSQL", "MongoDB"
+  ],
+  goals: "Crafting high-availability digital solutions & mastering system architecture."
 };
