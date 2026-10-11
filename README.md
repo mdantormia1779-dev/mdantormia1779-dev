@@ -1,82 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/0e8ac857-c0fc-404a-9fdf-6a563e992344" />
+  <!-- TOP HEADER BANNER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07192d,50:00f7ff,100:7f00ff&height=220&section=header&text=Md%20Antor%20Mia&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=62" />
 
-Hi, I'm Md Antor Mia
+  <!-- TYPING SVG ANIMATION -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Full-Stack+Developer;Frontend+Intern+%40+JEVXO+Software;React+%26+Next.js+15+Architect;Building+Scalable+Full-Stack+SaaS+Apps" alt="Typing SVG" />
+    </a>
+  </p>
 
-MERN Stack Developer | Front-End Developer
+  <!-- QUICK BIO BADGES -->
+  <p align="center">
+    ⚡ <b>Frontend Intern @ JEVXO Software</b> &nbsp;|&nbsp; 
+    📍 <b>Rangpur / Gaibandha, Bangladesh</b> &nbsp;|&nbsp; 
+    🎯 <b>Aiming to be a Top 1% Full Stack Engineer</b>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Intern+%7C+Real+World+Projects;React+%26+Next.js+Expert;Building+Scalable+Web+Apps" />
-</p>
+  <!-- SOCIAL BADGES -->
+  <p align="center">
+    <a href="https://linkedin.com/in/mdantormia">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mdantormia1779@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mdantormia1779-dev">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.facebook.com/md.antormia.1779">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
 
-<p align="center">
-Currently MERN Stack Intern | 🌍 Bangladesh  
-Building scalable, high-performance web applications
-</p>
-
-
-Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/md-antor-mia-antor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:mdantormia1779@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/mdantormia1779-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
-</p>
-
-Working as a **MERN Stack Intern (Real-world experience)**
-Strong in **MongoDB, Express.js, React, Node.js**
-Experience with **JWT Auth, Role-based system, API integration**
-Goal: Become a **Top 1% Full Stack Engineer**
-
-Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" />
-</p>
+</div>
 
 ---
 
-Featured Projects
+About Me
 
-Startup Forge (SaaS Platform)
-Role-based dashboard (Admin / Founder / User)
-Stripe payment integration
-Full-stack MERN + Next.js
-
-IdeaVault
-Idea sharing platform with authentication
-CRUD + Likes + Comments
-JWT + Google OAuth
-
-Order Management System
-Real-time dashboard
-Order tracking & status management
-Admin control panel
-
-Activity Graph (Advanced)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdantormia1779-dev&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-
-Education
-Diploma in Computer Science & Technology
-Habiganj Polytechnic Institute
-
-Current Focus
-Next.js (App Router)
-TypeScript
-System Design Basics
-
-Open To Work
-
-Internship | Junior Developer | Freelance
-Let's build something amazing together!
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=footer&text=Keep%20Building%20&fontSize=30&fontColor=ffffff" />
-</p>
-
-</div>
+```typescript
+const developer = {
+  name: "Md Antor Mia",
+  role: "MERN Stack & Full-Stack Developer",
+  education: "Diploma in Computer Science & Technology @ Habiganj Polytechnic Institute",
+  experience: "Frontend Developer Intern @ JEVXO Software",
+  currentFocus: ["Next.js 15 App Router", "TypeScript", "Prisma ORM", "System Design"],
+  passionateAbout: "Building high-performance UI/UX & scalable backend systems"
+};
