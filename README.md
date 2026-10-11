@@ -1,25 +1,26 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07192d,35:00f7ff,70:6366f1,100:a855f7&height=220&section=header&text=Md%20Antor%20Mia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Front-End%20Developer&descSize=18&descAlignY=60" />
+  <!-- TOP HEADER BANNER -->
+ <img width="3360" height="1280" alt="Gemini_Generated_Image_lo14o4lo14o4lo14" src="https://github.com/user-attachments/assets/1f5d9711-ca3b-44ff-85ec-a6f88bea108c" />
+
 
   <!-- DYNAMIC TYPING SVG ANIMATION -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Intern+%7C+Real+World+Projects;React+%26+Next.js+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;React+%26+Next.js+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- LOCATION & STATUS -->
+  <!-- QUICK CONTACT & LOCATION -->
   <p align="center">
-    <b>Currently MERN Stack Intern</b> &nbsp;•&nbsp; 
-    🌍 <b>Bangladesh</b> &nbsp;•&nbsp; 
-    ⚡ <b>Building scalable, high-performance web applications</b>
+    📍 <b>Rangpur, Bangladesh</b> &nbsp;•&nbsp; 
+    📞 <b>+8801318964063</b> &nbsp;•&nbsp; 
+    ✉️ <b>mdantormia1779@gmail.com</b>
   </p>
 
   <!-- SOCIAL CONNECT BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/md-antor-mia-antor/">
+    <a href="https://www.linkedin.com/in/md-antor-mia-antor/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mdantormia1779@gmail.com">
@@ -28,60 +29,78 @@
     <a href="https://github.com/mdantormia1779-dev">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://mdantormia.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🎯 Career Objective
 
-- 💼 Working as a **MERN Stack Intern (Real-world experience)**
-- 💻 Strong in **MongoDB, Express.js, React, Node.js**
-- 🔑 Experience with **JWT Auth, Role-based system, API integration**
-- 🎯 Goal: Become a **Top 1% Full Stack Engineer**
+Motivated MERN Stack Developer with hands-on experience in React.js, Next.js, Node.js, and modern web technologies. Experienced in building responsive, scalable, and user-friendly applications. Seeking an opportunity to contribute to real-world projects while growing as a professional Full-Stack Developer.
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Professional Experience
+
+- 🔹 **Frontend Developer Intern** | *2-Month Internship*
+  - Built responsive dashboards and reusable UI components using React.js, Next.js, TypeScript, Tailwind CSS, and Git/GitHub.
+
+- 🔹 **MERN-Stack Developer** | *Project-Based*
+  - Developed a Smart Attendance System using Next.js, TypeScript, Prisma, PostgreSQL, and React Native, featuring Face Recognition, Liveness Verification, GPS Geofencing, Authentication, and Attendance Tracking.
+
+---
+
+### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,prisma,py,git,github,vscode" />
 </p>
+
+<br/>
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, ShadCN UI, DaisyUI, Redux Toolkit, React Hook Form, Yup |
+| **Backend & Auth** | Node.js, Express.js, REST APIs, MongoDB, Mongoose, SQL, Prisma ORM, Better Auth, Google OAuth |
+| **Languages** | JavaScript, TypeScript, Python |
+| **Tools & Concept** | Git, GitHub, VS Code, Responsive Web Design |
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Highlighted Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Startup Forge</h3>
-      <p align="center"><b>SaaS Platform</b></p>
+      <h3 align="center">🤖 Smart Attendance System</h3>
+      <p align="center">
+        <a href="https://mdantormia.vercel.app">🌐 Live Link</a> | <a href="https://github.com/mdantormia1779-dev">💻 Source Code</a>
+      </p>
+      <p><b>Technologies:</b> Next.js, TypeScript, Prisma ORM, PostgreSQL, React Native Mobile App, JWT Authentication</p>
       <ul>
-        <li>Role-based dashboard (Admin / Founder / User)</li>
-        <li>Stripe payment integration</li>
-        <li>Full-stack MERN + Next.js</li>
+        <li>AI Face Recognition & Liveness Verification Attendance.</li>
+        <li>GPS Geofencing-based Secure Check-In/Check-Out.</li>
+        <li>Employee Management & Attendance Tracking System.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 IdeaVault</h3>
-      <p align="center"><b>Idea Sharing Platform</b></p>
+      <h3 align="center">🛒 Single Vendor Modern Full-Stack E-Commerce Platform</h3>
+      <p align="center">
+        <a href="https://mdantormia.vercel.app">🌐 Live Link</a> | <a href="https://github.com/mdantormia1779-dev">💻 Source Code</a>
+      </p>
+      <p><b>Technologies:</b> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Redux Toolkit, GSAP, Cloudinary</p>
       <ul>
-        <li>Idea sharing platform with authentication</li>
-        <li>CRUD + Likes + Comments</li>
-        <li>JWT + Google OAuth</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">📦 Order Management System</h3>
-      <p align="center"><b>Real-time Dashboard & Control Panel</b></p>
-      <ul>
-        <li>Real-time dashboard for order handling</li>
-        <li>Order tracking & status management</li>
-        <li>Admin control panel</li>
+        <li>Smart product search, filtering, flash sales, reviews, ratings, and product Q&A.</li>
+        <li>Cart, Buy Now, Cash on Delivery, live order tracking, and customer order management.</li>
+        <li>Advanced admin dashboard with revenue analytics, product/order management, and cloud image uploads.</li>
       </ul>
     </td>
   </tr>
@@ -89,21 +108,31 @@
 
 ---
 
-### 📊 Activity Graph (Advanced)
+### 🎓 Education & 🗣️ Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdantormia1779-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+| 🎓 Education | 🗣️ Language Proficiency |
+| :--- | :--- |
+| **Diploma in Computer Science & Technology**<br/>Habiganj Polytechnic Institute | • **Bengali**: Native proficiency<br/>• **English**: Conversational proficiency |
+
 </div>
 
 ---
 
-### 🎓 Education & 🎯 Current Focus
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-| 🎓 Education | 🎯 Current Focus |
-| :--- | :--- |
-| **Diploma in Computer Science & Technology**<br/>Habiganj Polytechnic Institute | • **Next.js (App Router)**<br/>• **TypeScript**<br/>• **System Design Basics** |
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdantormia1779-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdantormia1779-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdantormia1779-dev&theme=tokyonight&hide_border=true" width="48%" />
+  </p>
 
 </div>
 
@@ -112,17 +141,11 @@
 <div align="center">
 
 ### 💼 Open To Work
-**Internship | Junior Developer | Freelance**  
-*Let's build something amazing together!*
-
-<br/>
+**Full-Time Roles | Junior Software Engineer | Full-Stack Opportunities**
 
 <p align="center">
   <a href="mailto:mdantormia1779@gmail.com">
     <img src="https://img.shields.io/badge/Get_In_Touch-Hire_Me-00F7FF?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=footer&text=Keep%20Building%20&fontSize=30&fontColor=ffffff" />
-
 </div>
